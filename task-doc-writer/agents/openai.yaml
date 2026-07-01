@@ -1,0 +1,4 @@
+interface:
+  display_name: "Task Doc Writer"
+  short_description: "Write task docs into project .docs"
+  default_prompt: "Use $task-doc-writer to document the current task."
