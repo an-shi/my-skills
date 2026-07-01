@@ -21,7 +21,7 @@
 
 ## 安装
 
-将需要的 skill 目录复制到对应工具的全局 skills 目录：
+将需要的 skill 目录复制到对应工具的全局 skills 目录，例如：
 
-- Codex：`C:\Users\bw51\.codex\skills`
-- Trae：`C:\Users\bw51\.trae-cn\skills`
+- Codex：`C:\Users\XXX\.codex\skills`
+- Trae：`C:\Users\XXX\.trae-cn\skills`
